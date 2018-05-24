@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Marcos Vital - UFAL</title>
+    <link>https://marcosvital.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Marcos Vital - UFAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://marcosvital.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sampling sufﬁciency for estimating zooplankton diversity in neotropical ﬂoodplain lakes</title>
+      <link>https://marcosvital.github.io/publication/sampling-suf%EF%AC%81ciency-for-estimating-zooplankton-diversity/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcosvital.github.io/publication/sampling-suf%EF%AC%81ciency-for-estimating-zooplankton-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geographic Distribution of Africanized honeybees (Apis mellifera) Reflects Niche Characteristics of Ancestral African Subspecies</title>
+      <link>https://marcosvital.github.io/publication/distribution-of-africanized-honeybees/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcosvital.github.io/publication/distribution-of-africanized-honeybees/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
