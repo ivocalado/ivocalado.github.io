@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Marcos Vital - UFAL</title>
-    <link>https://marcosvital.github.io/publication/</link>
-    <description>Recent content in Publications on Marcos Vital - UFAL</description>
+    <title>Publications on Ivo Calado - IFAL</title>
+    <link>https://ivocalado.github.io/publication/</link>
+    <description>Recent content in Publications on Ivo Calado - IFAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0300</lastBuildDate>
     
-	<atom:link href="https://marcosvital.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ivocalado.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sampling sufﬁciency for estimating zooplankton diversity in neotropical ﬂoodplain lakes</title>
-      <link>https://marcosvital.github.io/publication/sampling-suf%EF%AC%81ciency-for-estimating-zooplankton-diversity/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <title>A Metamodel for Supporting Interoperability in Heterogeneous Ontology Networks</title>
+      <link>https://ivocalado.github.io/publication/a-metamodel-for-supporting-interoperability-in-heterogeneous-ontology-networks/</link>
+      <pubDate>Fri, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://marcosvital.github.io/publication/sampling-suf%EF%AC%81ciency-for-estimating-zooplankton-diversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geographic Distribution of Africanized honeybees (Apis mellifera) Reflects Niche Characteristics of Ancestral African Subspecies</title>
-      <link>https://marcosvital.github.io/publication/distribution-of-africanized-honeybees/</link>
-      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcosvital.github.io/publication/distribution-of-africanized-honeybees/</guid>
+      <guid>https://ivocalado.github.io/publication/a-metamodel-for-supporting-interoperability-in-heterogeneous-ontology-networks/</guid>
       <description></description>
     </item>
     
